@@ -1,3 +1,12 @@
+# Drop trash files from mac os 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ignore all the files that contanin the following words: token
+token.txt
+.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
